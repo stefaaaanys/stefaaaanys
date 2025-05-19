@@ -2,8 +2,8 @@
 
 Meu nome é Stefany Hagne 
 
-- Estou sou uma estudante do ensino médio
-- Estou me desenvolvendo nas linguagens JavaScript, Css, Html e Python
+- Estou sou uma estudante de ADS
+- Estou me desenvolvendo em UX/UI design
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo :mailbox
